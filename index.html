@@ -9,6 +9,13 @@
         .user-info {
             padding: 8px;
             border: 2px solid black;
+            width: min-content;
+            color: red;
+            font-family: 'Times New Roman', Times, serif
+        }
+        .user-name {
+            width: max-content;
+            font-weight: bold;
         }
     </style>
 
@@ -32,18 +39,19 @@
             }
         };
         const userClassName = "user-info";
-        const styleObj = {
-            color : "red",
-            fontFamily : "Verdana"
-        }
+        const styleAge = {
+            color:'green', 
+            fontFamily:'Verdana'
+        };
+
         ReactDOM
             .createRoot(document.getElementById("app"))
             .render(
-                <div className={userClassName} style={styleObj}>
-                    <p>Full name: {user.getFullName()}</p>
-                    <p>Age: {user.age}</p>
+                <div className={userClassName}>
+                    <p className="user-name">Full name: {user.getFullName()}</p>
+                    <p style={styleAge}>Age: {user.age}</p>
                 </div>
-            )
+            );
 
     </script>
 
