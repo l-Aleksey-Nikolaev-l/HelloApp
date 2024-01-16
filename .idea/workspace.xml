@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.03 - Added Node.js server">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.04 - Added CLI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,6 +44,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -55,6 +58,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,7 +78,10 @@
       <workItem from="1705315057045" duration="98000" />
       <workItem from="1705315995078" duration="457000" />
       <workItem from="1705317347996" duration="288000" />
-      <workItem from="1705317875602" duration="1418000" />
+      <workItem from="1705317875602" duration="1728000" />
+      <workItem from="1705396544383" duration="259000" />
+      <workItem from="1705396829730" duration="67000" />
+      <workItem from="1705396960837" duration="1734000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.01 - Initial">
       <option name="closed" value="true" />
@@ -96,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705317943135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ver 0.04 - Added CLI">
+      <option name="closed" value="true" />
+      <created>1705319699624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705319699624</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +137,7 @@
     <MESSAGE value="ver 0.01 - Initial" />
     <MESSAGE value="ver 0.02 - Styles were changed" />
     <MESSAGE value="ver 0.03 - Added Node.js server" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 0.03 - Added Node.js server" />
+    <MESSAGE value="ver 0.04 - Added CLI" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.04 - Added CLI" />
   </component>
 </project>
