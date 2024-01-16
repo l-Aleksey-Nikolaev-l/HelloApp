@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.06 - Created props and defaultProps">
+    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.07 - Events">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -76,7 +76,7 @@
       <workItem from="1705317875602" duration="1728000" />
       <workItem from="1705396544383" duration="259000" />
       <workItem from="1705396829730" duration="67000" />
-      <workItem from="1705396960837" duration="5215000" />
+      <workItem from="1705396960837" duration="6369000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.01 - Initial">
       <option name="closed" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705403733898</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ver 0.07 - Events">
+      <option name="closed" value="true" />
+      <created>1705404866395</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705404866395</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +168,7 @@
     <MESSAGE value="ver 0.05 - Changed ReactElement" />
     <MESSAGE value="ver 0.06 - Created of components" />
     <MESSAGE value="ver 0.06 - Created props and defaultProps" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 0.06 - Created props and defaultProps" />
+    <MESSAGE value="ver 0.07 - Events" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.07 - Events" />
   </component>
 </project>
