@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.04 - Added CLI">
+    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.05 - Changed ReactElement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +76,7 @@
       <workItem from="1705317875602" duration="1728000" />
       <workItem from="1705396544383" duration="259000" />
       <workItem from="1705396829730" duration="67000" />
-      <workItem from="1705396960837" duration="1734000" />
+      <workItem from="1705396960837" duration="3177000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.01 - Initial">
       <option name="closed" value="true" />
@@ -115,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705319699624</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ver 0.05 - Changed ReactElement">
+      <option name="closed" value="true" />
+      <created>1705401792508</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705401792508</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +141,7 @@
     <MESSAGE value="ver 0.02 - Styles were changed" />
     <MESSAGE value="ver 0.03 - Added Node.js server" />
     <MESSAGE value="ver 0.04 - Added CLI" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 0.04 - Added CLI" />
+    <MESSAGE value="ver 0.05 - Changed ReactElement" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.05 - Changed ReactElement" />
   </component>
 </project>
