@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.09 - Created webpack">
+    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.10 - Created class component with STATE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/article.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/header.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +78,7 @@
       <workItem from="1705396544383" duration="259000" />
       <workItem from="1705396829730" duration="67000" />
       <workItem from="1705396960837" duration="9347000" />
-      <workItem from="1705485167159" duration="1167000" />
+      <workItem from="1705485167159" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.01 - Initial">
       <option name="closed" value="true" />
@@ -167,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705408619319</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ver 0.10 - Created class component with STATE">
+      <option name="closed" value="true" />
+      <created>1705486381322</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705486381323</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +197,7 @@
     <MESSAGE value="ver 0.07 - Events" />
     <MESSAGE value="ver 0.08 - Send parameters to events" />
     <MESSAGE value="ver 0.09 - Created webpack" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 0.09 - Created webpack" />
+    <MESSAGE value="ver 0.10 - Created class component with STATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.10 - Created class component with STATE" />
   </component>
 </project>
