@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.12 - Async update of state">
+    <list default="true" id="99a55762-68e9-4034-9f87-23d6c9b8717a" name="Changes" comment="ver 0.13 - Resource management">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <workItem from="1705396544383" duration="259000" />
       <workItem from="1705396829730" duration="67000" />
       <workItem from="1705396960837" duration="9347000" />
-      <workItem from="1705485167159" duration="4444000" />
+      <workItem from="1705485167159" duration="6009000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.01 - Initial">
       <option name="closed" value="true" />
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705487876978</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ver 0.13 - Resource management">
+      <option name="closed" value="true" />
+      <created>1705491447015</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705491447015</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +224,7 @@
     <MESSAGE value="ver 0.10 - Created class component with STATE" />
     <MESSAGE value="ver 0.11 - setState or update of state" />
     <MESSAGE value="ver 0.12 - Async update of state" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 0.12 - Async update of state" />
+    <MESSAGE value="ver 0.13 - Resource management" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.13 - Resource management" />
   </component>
 </project>
